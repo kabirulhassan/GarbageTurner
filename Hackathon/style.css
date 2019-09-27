@@ -1,0 +1,39 @@
+.face{
+    background-image: url(an.gif);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 70px;
+    margin: 50px;
+    color: aliceblue;
+    border: white;
+    border: 5px solid white;
+    border-radius: 30px;
+    text-align: center;
+    font-family: "bungee inline";
+    text-shadow: black 2px 2px;
+}
+.head1.head2{
+    color: azure;
+    text-align: center;
+    font-family: "Bungee Inline";
+}
+.head1{
+    font-size: 100px;
+   
+}
+body{
+    background-image: url(bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding:40px;
+}
+.content{
+    background-color: rgba(0,0,0,0.7);
+    color:white;
+    padding:100px;
+    border-radius:10px;
+}
+.image{
+    background-color: rgba(0,0,0,0.7);
+}
